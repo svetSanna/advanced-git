@@ -1,1 +1,2 @@
 Привет, Снежинск!Hello again
+  second line in master
