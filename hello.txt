@@ -1,1 +1,2 @@
 Привет, Снежинск!Hello again
+  second line in my_second_brunch
