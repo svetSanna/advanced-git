@@ -1,2 +1,6 @@
 Привет, Снежинск!Hello again
+<<<<<<< HEAD
   second line in master
+=======
+  second line in my_second_brunch
+>>>>>>> my_second_brunch
